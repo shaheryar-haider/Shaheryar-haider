@@ -1,4 +1,4 @@
-# Hi, I'm Shaheryar 👋
+# Hi, I'm Syed 👋
 
 Data Analyst in Merchandising & Planning at **EB Games Canada**, where I manage 1,000+ SKUs across 180+ stores — forecasting demand, analyzing promotions, and building Power BI dashboards that drive replenishment decisions.
 
